@@ -8,6 +8,8 @@ TagManager:
   - EnemyArena
   - mycard
   - enemycard
+  - myhero
+  - enemyhero
   layers:
   - Default
   - TransparentFX
